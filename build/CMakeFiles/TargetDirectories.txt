@@ -1,0 +1,3 @@
+/home/vidal/Desktop/Games/DoodleJump/build/CMakeFiles/rebuild_cache.dir
+/home/vidal/Desktop/Games/DoodleJump/build/CMakeFiles/edit_cache.dir
+/home/vidal/Desktop/Games/DoodleJump/build/CMakeFiles/DoodleJump.dir
